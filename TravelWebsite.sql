@@ -4684,9 +4684,9 @@ CREATE TABLE `users_banner` (
 -- ----------------------------
 -- Records of users_banner
 -- ----------------------------
-INSERT INTO `users_banner` VALUES ('1', '白马寺', 'banner/2018/11/b1.png', '/scenicspots/scenic_detail/04/', '2018-11-20 13:50:00.000000');
-INSERT INTO `users_banner` VALUES ('2', '美丽洛阳', 'banner/2018/11/b2.png', '/diarys/details/3/', '2018-11-20 13:55:00.000000');
-INSERT INTO `users_banner` VALUES ('3', 'youzi', 'banner/2018/11/b3.jpg', '/shop/detail/1/', '2018-11-20 13:56:00.000000');
+INSERT INTO `users_banner` VALUES ('1', '圌山', 'banner/2023/04/tuanshan.jpg', '/scenicspots/scenic_detail/04/', '2023-04-02 13:50:00.000000');
+INSERT INTO `users_banner` VALUES ('2', '得撒石磨豆腐村牡丹节', 'banner/2023/04/deisa.png', '/diarys/details/3/', '2023-04-01 13:55:00.000000');
+INSERT INTO `users_banner` VALUES ('3', '柚子', 'banner/2023/04/youzi.jpg', '/shop/detail/1/', '2023-04-03 13:56:00.000000');
 
 -- ----------------------------
 -- Table structure for users_emailverifyrecord
