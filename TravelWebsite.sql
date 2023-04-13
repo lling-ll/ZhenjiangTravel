@@ -4748,11 +4748,10 @@ CREATE TABLE `users_myuser` (
 -- ----------------------------
 -- Records of users_myuser
 -- ----------------------------
-INSERT INTO `users_myuser` VALUES ('1', 'pbkdf2_sha256$120000$lgrsOUiN0y9W$m+UypvhsNMwMvJgyMfaPWL5MmmVuO+rRc9bi64CkeBU=', '2018-11-15 13:40:34.936141', '1', 'zhiqi', '', '', 'zhiqi1028@gmail.com', '1', '1', '2018-10-10 10:07:45.065131', '稚琦', 'male', '410302', '1994-10-28', '不爱学习，怎么减肥', 'image/1/aacbada759.jpg', '6360', '2018-11-15');
-INSERT INTO `users_myuser` VALUES ('19', 'pbkdf2_sha256$120000$yaIep6YtvmEF$7fmilUxBJE96NsrriKoV3JqKDdjIx3dRdcXf5To3koA=', '2018-10-15 14:57:24.975493', '0', '935939006@qq.com', '', '', '935939006@qq.com', '0', '1', '2018-10-12 14:31:17.785275', '小稚', 'secret', '410302', '2018-10-18', '', 'image/default.jpg', '0', '1970-01-01');
-INSERT INTO `users_myuser` VALUES ('20', 'pbkdf2_sha256$120000$b2519v3EBvQU$R+ci38zE1Y7vsz/k7T2gn1/cVrIeF2h4o21BwHgcylA=', null, '0', '1@1.com', '', '', '1@1.com', '0', '0', '2018-10-12 14:33:45.596982', '', 'secret', '410302', '2018-10-18', '', 'image/default.jpg', '0', '1970-01-01');
+INSERT INTO `users_myuser` VALUES ('1', 'pbkdf2_sha256$120000$aMo5HWYzk25u$qjUR55oFXVRl2kqz8NNcQICgZiOt3au5f/7sjtWpNNM=', '2023-04-13 14:32:49.230618', '1', 'zhangsan', '', '', 'zhangsan@qq.com', '1', '1', '2023-04-13 14:32:49.230618', '张三', 'male', '410302', '2000-10-28', '我是张三，谁是李四', 'image/1/zhangsantouxiang.jpg', '6360', '2023-01-01');
+INSERT INTO `users_myuser` VALUES ('19', 'pbkdf2_sha256$120000$gcsBQOd1LnMF$7aHzhxpAnYE2tAEcq06cvaeEa7tLnOK/Ehtids7dbIA=', '2023-04-12 14:32:49.230618', '0', 'lltesttest', '', '', 'qwertyuiop@qq.com', '0', '1', '2023-04-12 14:32:49.230618', 'll', 'secret', '410302', '2012-10-28', '', 'image/default.jpg', '0', '2023-01-01');
+INSERT INTO `users_myuser` VALUES ('20', 'pbkdf2_sha256$120000$tJs9SKO8ilWd$+F7f7Ulq1DOkDXobZATVA/+Hjur+Me9LUtpD4Y5zxMo=', '2023-04-12 14:32:49.230618', '1', 'lisitest', '', '', 'kkkkk@qq.com', '1', '1', '2023-04-11 14:32:49.230618', '李四', 'female', '410302', '2008-10-28', '李四在这', 'image/default.jpg', '80', '2023-01-01');
 
--- ----------------------------
 -- Table structure for users_myuser_groups
 -- ----------------------------
 DROP TABLE IF EXISTS `users_myuser_groups`;
