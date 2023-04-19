@@ -823,25 +823,25 @@ CREATE TABLE `scenicspots_gallery` (
 -- ----------------------------
 -- Records of scenicspots_gallery
 -- ----------------------------
-INSERT INTO `scenicspots_gallery` VALUES ('1', '往事越千年', 'spots/banner/2018/10/timg.jpeg', '2018-10-16 14:31:00.000000', '1');
-INSERT INTO `scenicspots_gallery` VALUES ('2', '远景', 'spots/banner/2018/10/timg_1.jpeg', '2018-10-16 14:32:00.000000', '1');
-INSERT INTO `scenicspots_gallery` VALUES ('3', '庐舍那大佛', 'spots/banner/2018/10/timg_2.jpeg', '2018-10-16 14:33:00.000000', '1');
-INSERT INTO `scenicspots_gallery` VALUES ('04', '奉先寺', 'spots/banner/2018/10/timg_3.jpeg', '2018-10-16 14:34:00.000000', '1');
-INSERT INTO `scenicspots_gallery` VALUES ('5', '全景', 'spots/banner/2018/10/u3190787190571207846fm26gp0.jpg', '2018-10-16 14:34:00.000000', '1');
-INSERT INTO `scenicspots_gallery` VALUES ('6', '白云山风光1', 'spots/banner/2018/10/43f2_b.jpg', '2018-10-16 14:35:00.000000', '2');
-INSERT INTO `scenicspots_gallery` VALUES ('7', '白云山风光2', 'spots/banner/2018/10/2017050105.jpg', '2018-10-16 14:37:00.000000', '2');
-INSERT INTO `scenicspots_gallery` VALUES ('8', '白云山风光3', 'spots/banner/2018/10/d01373f082025aafe06feaf1f0edab64034f1aae.jpg', '2018-10-16 14:37:00.000000', '2');
-INSERT INTO `scenicspots_gallery` VALUES ('9', '全景', 'spots/banner/2018/10/国花园.jpeg', '2018-10-16 14:38:00.000000', '5');
-INSERT INTO `scenicspots_gallery` VALUES ('10', '东门', 'spots/banner/2018/10/sdfasfsd.jpeg', '2018-10-16 14:39:00.000000', '5');
-INSERT INTO `scenicspots_gallery` VALUES ('11', '西门', 'spots/banner/2018/10/15643.jpeg', '2018-10-16 14:39:00.000000', '5');
-INSERT INTO `scenicspots_gallery` VALUES ('12', '马寺钟声', 'spots/banner/2018/10/dsefsfg.jpeg', '2018-10-16 14:40:00.000000', '04');
-INSERT INTO `scenicspots_gallery` VALUES ('13', '白马寺', 'spots/banner/2018/10/safasfg.jpeg', '2018-10-16 14:41:00.000000', '04');
-INSERT INTO `scenicspots_gallery` VALUES ('14', '马寺印象', 'spots/banner/2018/10/dfsafsfg.jpeg', '2018-10-16 14:41:00.000000', '04');
-INSERT INTO `scenicspots_gallery` VALUES ('15', '鸡冠洞1', 'spots/banner/2018/10/013e355875ca65a801219c77a66943.jpg1280w_1l_2o_100sh.jpg', '2018-10-16 14:43:00.000000', '3');
-INSERT INTO `scenicspots_gallery` VALUES ('16', '鸡冠洞2', 'spots/banner/2018/10/bf096b63f6246b60138698a0e1f81a4c500fa25d.jpg', '2018-10-16 14:43:00.000000', '3');
-INSERT INTO `scenicspots_gallery` VALUES ('17', '鸡冠洞3', 'spots/banner/2018/10/dbb44aed2e738bd4e03f33fbab8b87d6267ff9da.jpg', '2018-10-16 14:44:00.000000', '3');
-INSERT INTO `scenicspots_gallery` VALUES ('18', '鸡冠洞4', 'spots/banner/2018/10/f703738da9773912282ad258f3198618367ae2ff.jpg', '2018-10-16 14:44:00.000000', '3');
-INSERT INTO `scenicspots_gallery` VALUES ('19', '鸡冠洞5', 'spots/banner/2018/10/u5763711552706764766fm26gp0.jpg', '2018-10-16 14:44:00.000000', '3');
+INSERT INTO `scenicspots_gallery` VALUES ('1', '金山寺5', 'spots/banner/2023/04/jinshansi5.jpg', '2023-04-16 14:31:00.000000', '1');
+INSERT INTO `scenicspots_gallery` VALUES ('2', '金山寺4', 'spots/banner/2023/04/jinshansi4.jpg', '2023-04-16 14:32:00.000000', '1');
+INSERT INTO `scenicspots_gallery` VALUES ('3', '金山寺3', 'spots/banner/2023/04/jinshansi3.jpg', '2023-04-16 14:33:00.000000', '1');
+INSERT INTO `scenicspots_gallery` VALUES ('4', '金山寺2', 'spots/banner/2023/04/jinshansi2.jpg', '2023-04-16 14:34:00.000000', '1');
+INSERT INTO `scenicspots_gallery` VALUES ('5', '金山寺1', 'spots/banner/2023/04/jinshansi1.jpg', '2023-04-16 14:34:00.000000', '1');
+INSERT INTO `scenicspots_gallery` VALUES ('6', '西津渡3', 'spots/banner/2023/04/xijindu3.jpg', '2023-04-16 14:35:00.000000', '2');
+INSERT INTO `scenicspots_gallery` VALUES ('7', '西津渡2', 'spots/banner/2023/04/xijindu2.jpg', '2023-04-16 14:37:00.000000', '2');
+INSERT INTO `scenicspots_gallery` VALUES ('8', '西津渡1', 'spots/banner/2023/04/xijindu1.jpg', '2023-04-16 14:37:00.000000', '2');
+INSERT INTO `scenicspots_gallery` VALUES ('9', '江心洲3', 'spots/banner/2023/04/jiangxinzhou3.jpg', '2023-04-16 14:38:00.000000', '5');
+INSERT INTO `scenicspots_gallery` VALUES ('10', '江心洲2', 'spots/banner/2023/04/jiangxinzhou2.jpg', '2023-04-16 14:39:00.000000', '5');
+INSERT INTO `scenicspots_gallery` VALUES ('11', '江心洲1', 'spots/banner/2023/04/jiangxinzhou1.jpg', '2023-04-16 14:39:00.000000', '5');
+INSERT INTO `scenicspots_gallery` VALUES ('12', '镇江醋文化3', 'spots/banner/2023/04/cu3.jpg', '2023-04-16 14:40:00.000000', '04');
+INSERT INTO `scenicspots_gallery` VALUES ('13', '镇江醋文化2', 'spots/banner/2023/04/cu2.jpg', '2023-04-16 14:41:00.000000', '04');
+INSERT INTO `scenicspots_gallery` VALUES ('14', '镇江醋文化1', 'spots/banner/2023/04/cu1.jpg', '2023-04-16 14:41:00.000000', '04');
+INSERT INTO `scenicspots_gallery` VALUES ('15', '南山5', 'spots/banner/2023/04/nanshan5.jpg', '2023-04-16 14:43:00.000000', '3');
+INSERT INTO `scenicspots_gallery` VALUES ('16', '南山4', 'spots/banner/2023/04/nanshan4.jpg', '2023-04-16 14:43:00.000000', '3');
+INSERT INTO `scenicspots_gallery` VALUES ('17', '南山3', 'spots/banner/2023/04/nanshan3.jpg', '2023-04-16 14:44:00.000000', '3');
+INSERT INTO `scenicspots_gallery` VALUES ('18', '南山2', 'spots/banner/2023/04/nanshan2.jpg', '2023-04-16 14:44:00.000000', '3');
+INSERT INTO `scenicspots_gallery` VALUES ('19', '南山1', 'spots/banner/2023/04/nanshan1.jpg', '2023-04-16 14:44:00.000000', '3');
 
 -- ----------------------------
 -- Table structure for scenicspots_spots
