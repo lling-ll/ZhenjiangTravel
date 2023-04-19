@@ -4809,9 +4809,9 @@ CREATE TABLE `users_thecontact` (
 -- ----------------------------
 -- Records of users_thecontact
 -- ----------------------------
-INSERT INTO `users_thecontact` VALUES ('1', '鲁迅', '410307', '洛龙区123123', '12345678910', '000000', '1', '1');
-INSERT INTO `users_thecontact` VALUES ('04', '李白', '410103', '二七区123', '13345678910', '000000', '0', '1');
-INSERT INTO `users_thecontact` VALUES ('5', '黄鹤', '330303', '江南皮革厂', '18888888888', '123456', '0', '1');
+INSERT INTO `users_thecontact` VALUES ('1', '鲁迅', '410307', '洛龙区123123', '12345678910', '000000', '1', '20');
+INSERT INTO `users_thecontact` VALUES ('4', '李白', '410103', '二七区123', '13345678910', '000000', '0', '20');
+INSERT INTO `users_thecontact` VALUES ('5', '黄鹤', '330303', '江南皮革厂', '18888888888', '123456', '0', '20');
 
 -- ----------------------------
 -- Table structure for xadmin_bookmark
