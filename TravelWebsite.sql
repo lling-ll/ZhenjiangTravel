@@ -495,8 +495,8 @@ CREATE TABLE `operation_activecomments` (
 -- ----------------------------
 -- Records of operation_activecomments
 -- ----------------------------
-INSERT INTO `operation_activecomments` VALUES ('1', '龙门石窟是洛阳最经典的景点，其中西山石窟是龙门最精华的部分，包括奉先寺的卢舍那佛像和古阳洞中的“龙门二十品”', '2018-11-19 17:07:42.503174', '2', '1');
-INSERT INTO `operation_activecomments` VALUES ('2', '独立成团·私家享受,完美！', '2018-11-20 10:10:49.023945', '3', '1');
+INSERT INTO `operation_activecomments` VALUES ('1', '赶紧行动起来', '2022-11-19 17:07:42.503174', '2', '1');
+INSERT INTO `operation_activecomments` VALUES ('2', '焦山+北固山+句容茅山景区/金山+南山+西津渡古街等10景点24小时畅游卡不限人群！', '2022-11-20 10:10:49.023945', '3', '1');
 
 -- ----------------------------
 -- Table structure for operation_diarycomments
