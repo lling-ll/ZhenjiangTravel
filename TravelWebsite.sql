@@ -621,8 +621,8 @@ CREATE TABLE `operation_spotscomments` (
 -- ----------------------------
 -- Records of operation_spotscomments
 -- ----------------------------
-INSERT INTO `operation_spotscomments` VALUES ('1', '白马寺本身并不大，就是那五座殿宇；可白马寺景区却很大，全部走完至少要有两小时。挺好的！', '2018-11-14 14:11:23.012778', '04', '1');
-INSERT INTO `operation_spotscomments` VALUES ('2', '花园以隋唐历史文化为底蕴，以牡丹文化为主要内容，融历史文化、牡丹文化和园林景观为一体，充分展示了牡丹之美、之清、之幽', '2018-11-19 17:07:01.251005', '5', '1');
+INSERT INTO `operation_spotscomments` VALUES ('1', '北宋文学家苏轼是一位美食家，常爱以诗词记载所品美食。此诗就是苏轼在镇江焦山品鱼时，赞美镇江香醋和鱼的诗句。提及镇江香醋，除了品尝一番，最不容错过的就属中国醋文化博物馆。', '2023-04-19 14:11:23.012778', '4', '1');
+INSERT INTO `operation_spotscomments` VALUES ('2', '香草博物馆、帐篷酒店、环游马车、赏荷栈桥、亲子游乐天地、知青文化墙、柿子园、银杏园等散落景区各处，风景处处在。', '2023-04-19 17:07:01.251005', '5', '1');
 
 -- ----------------------------
 -- Table structure for operation_usercollect
