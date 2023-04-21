@@ -119,7 +119,7 @@ i:nth-child(n+3){
         opacity: 0;
     }
     30% {
-        -webkit-transform: scale(1.1)
+        -webkit-transform: scale(1.1);
         transform: scale(1.1)
     }
     50% {
@@ -146,7 +146,7 @@ i:nth-child(n+3){
         opacity: 0;
     }
     40% {
-        -webkit-transform: scale(1.1)
+        -webkit-transform: scale(1.1);
         transform: scale(1.1)
     }
     60% {
@@ -168,7 +168,7 @@ i:nth-child(n+3){
         opacity: 0;
     }
     50% {
-        -webkit-transform: scale(1.1)
+        -webkit-transform: scale(1.1);
         transform: scale(1.1)
     }
     70% {
@@ -190,7 +190,7 @@ i:nth-child(n+3){
         opacity: 0;
     }
     60% {
-        -webkit-transform: scale(1.1)
+        -webkit-transform: scale(1.1);
         transform: scale(1.1)
     }
     80% {
@@ -212,7 +212,7 @@ i:nth-child(n+3){
         opacity: 0;
     }
     70% {
-        -webkit-transform: scale(1.1)
+        -webkit-transform: scale(1.1);
         transform: scale(1.1)
     }
     90% {
